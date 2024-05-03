@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
 <h3 align="center">Currently I'm persuing B.Tech in Artificial Intelligence and Machine Learning, Learning New Technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sh-sahil&label=Profile%20views&color=0e75b6&style=flat" alt="sh-sahil" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sahil-sharma-510b9a2aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-sharma-510b9a2aa" height="30" width="40" /></a>
