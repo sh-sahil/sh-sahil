@@ -5,6 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sh-sahil" alt="sh-sahil" /></a> </p>
 
+<div align=center> 
+  
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/sahilgsharma?theme=dark&font=Sriracha&ext=heatmap)
+  
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sahil-sharma-510b9a2aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-sharma-510b9a2aa" height="30" width="40" /></a>
